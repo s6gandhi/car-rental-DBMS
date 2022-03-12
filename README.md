@@ -1,1 +1,1 @@
-This 
+car rental DBMS created with the use of MySQL , SQL Developer as well as Java to connect to the oracle database. Project Created a simple UI with allowed users to create, edit, delete records from the database.
